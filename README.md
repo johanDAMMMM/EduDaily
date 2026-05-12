@@ -11,5 +11,4 @@ Una aplicación interactiva diseñada para el aprendizaje de inglés cotidiano. 
 * **Interfaz Responsiva:** Uso de `customtkinter` con contenedores desplazables (scroll) para asegurar que todo el contenido sea visible.
 
 ## Vista Previa
-![Menú Principal](screenshots/menu.png)
-![Lección Gramática](screenshots/leccion.png)
+![Menú Principal](screenshots/Pantalla-inicio.png)
